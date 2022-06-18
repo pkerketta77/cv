@@ -1,0 +1,25 @@
+body {
+  background-color: #DDDDDD;
+}
+
+h1 {
+  font-family: Segoe Script;
+  color: #383838;
+}
+
+h3 {
+  font-family: Segoe Script;
+  color: #383838;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: white;
+  width: 10%
+}
+
+/* cannot comment inside
+ web browser has some default values
+ percentage because it will adjust according to whatever screen it is */
